@@ -1,0 +1,143 @@
+*{margin: 0;}
+#i0{
+    width: 100%;
+}
+#i1{
+    width: 100%;
+    margin-top: -500px;
+}
+#i2{
+    width: 100%;
+    margin-top: -800px;
+}
+#i3{
+    width: 100%;
+    margin-top: -800px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-top: -1510px;
+}
+.item{
+    color: white;
+}
+#l1{
+   font-size: 22px;
+}
+#l2{
+    margin-left: 530px;
+}
+#l3{
+   margin-left: 530px;
+}
+#l4{
+    padding: 0px 25px;
+}
+.flex1{
+    font-size: 75px;
+    font-weight: 500;
+    margin-top: 250px;
+    color: white;
+    text-align: center;
+}
+#l5{
+    margin-left: -550px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+#l6{
+    margin-left: -400px;
+    color: rgb(255, 200, 146);
+    font-size: 22px;
+}
+#l7{
+   width: 100px;
+}
+.flex2{
+    font-size: 25px;
+    
+    color:  rgb(255, 255, 255);
+    margin-left: 1380px;
+    margin-top: -300px;
+}
+.flex2 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+#l9{
+    margin-top: -210px;
+    margin-left: 1450px;
+}
+.flex3{
+    background-color: #0B1D26;
+    display: flex;
+    justify-content: center;
+    margin-top: 700px;
+}
+.left3{
+    margin-top: 250px;
+    color: white;
+}
+.right3{
+    margin-left: 90px;
+}
+#s1{
+    padding: 4px;
+}
+#o1{
+    font-size: 200px;
+    opacity: 0.1;
+    margin-left: 40px;
+    color: white;
+    margin-top: -570px;
+}
+.flex4{
+    padding-top: 100px;
+    background-color: #0B1D26;
+    display: flex;
+    justify-content: center;
+    margin-top: 340px;
+}
+.flex5{
+    padding-top: 100px;
+    background-color: #0B1D26;
+    display: flex;
+    justify-content: center;
+    margin-top: 335px;
+}
+.left4{
+    margin-top: 250px;
+    margin-left: 120px;
+    color: white;
+}
+#o2{
+    font-size: 200px;
+    opacity: 0.1;
+    margin-left: 790px;
+    color: white;
+    margin-top: -570px;
+}
+.flexx{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 330px;
+    background-color: #0B1D26;
+    color:  white;
+}
+.item6{
+    margin-left: 235px;
+}
+.item8{
+    margin-left: 440px;
+}
+.item9{
+    margin-left: 10px;
+}
+#e1{
+    margin-top: -200px;
+    margin-left: 40px;
+    color: white;
+    writing-mode: vertical-rl;
+}
